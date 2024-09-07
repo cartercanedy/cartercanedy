@@ -48,7 +48,7 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_languages: yes
-          plugin_languages_aliases: javascript:js, typescript:ts, rust:rs
+          plugin_languages_aliases: javascript:JS, typescript:TS
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
