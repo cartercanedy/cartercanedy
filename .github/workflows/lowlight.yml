@@ -51,6 +51,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
+          plugin_languages_skipped: nvim, .dotfiles
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css
           plugin_languages_colors: github
           plugin_languages_limit: 8
