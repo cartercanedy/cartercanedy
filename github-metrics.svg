@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1384" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1068" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    91.2k added, 11.4k removed
+                                    90.4k added, 10.8k removed
                                 </div>
                             </section>
                             <section>
@@ -323,12 +323,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 35 commits)</small>
+                    <small class="h-details">(computed from last 39 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.3 characters per line of code written</li>
+                        <li>Has approximately 35.4 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -395,15 +395,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cartercanedy/zed</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">cartercanedy/rawbit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
+                                    <div>on branch <span class="code">dependabot/cargo/tempfile-3.15.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f464174</div>
-                                        <div class="message">tmp: refactor new terminal spawning</div>
+                                        <div class="sha">#15bb28e</div>
+                                        <div class="message">Merge branch 'master' into dependabot/cargo/tempfile-3.15.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -415,449 +415,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 46 commits in
-                                        <span class="repo">cartercanedy/zed</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">cartercanedy/rawbit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
+                                    <div>on branch <span class="code">dependabot/cargo/tokio-1.43.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#711dc21</div>
-                                        <div class="message">Load all key bindings that parse and use markdown in error notifications (#23113)
-
-* Collects and reports all parse errors
-
-* Shares parsed `KeyBindingContextPredicate` among the actions.
-
-* Updates gpui keybinding and action parsing to return structured
-errors.
-
-* Renames "block" to "section" to match the docs, as types like
-`KeymapSection` are shown in `json-language-server` hovers.
-
-* Removes wrapping of `context` and `use_key_equivalents` fields so that
-`json-language-server` auto-inserts `""` and `false` instead of `null`.
-
-* Updates `add_to_cx` to take `&amp;self`, so that the user keymap doesn't
-get unnecessarily cloned.
-
-In retrospect I wish I'd just switched to using TreeSitter to do the
-parsing and provide proper diagnostics. This is tracked in #23333
-
-Release Notes:
-
-- Improved handling of errors within the user keymap file. Parse errors
-within context, keystrokes, or actions no longer prevent loading the key
-bindings that do parse.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c929533</div>
-                                        <div class="message">editor: Hide horizontal scrollbar if not visible (#23337)
-
-This PR fixes two visual issues, that were caused by the fact that we
-were always painting the horizontal scrollbar even if there is no
-horizontal scrolling possible
-
-Obscuring deleted lines when using the inline assistant:
-
-https://github.com/user-attachments/assets/f8460c3f-403e-40a6-8622-65268ba2d875
-
-Cutting off text even when horizontal scrolling is not possible:
-
-https://github.com/user-attachments/assets/23c909f7-1c23-4693-8edc-40a2f089d4a8
-
-This issue was only present in some themes (e.g. Nord, Catpuccin)
-
-
-Closes #22716
-
-Release Notes:
-
-- Fixed an issue where horizontal scrollbars of editors would always be
-painted (even if there is no horizontal scrolling to be done)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c09a3d</div>
-                                        <div class="message">assistant2: Use `notify_async_err` for error notifications (#23330)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0199eca</div>
-                                        <div class="message">Allow filling co-authors in the git panel's commit input (#23329)
-
-https://github.com/user-attachments/assets/78db908e-cfe5-4803-b0dc-4f33bc457840
-
-
-* starts to extract usernames out of `users/` GitHub API responses, and
-pass those along with e-mails in the collab sessions as part of the
-`User` data
-
-* adjusts various prefill and seed test methods so that the new data can
-be retrieved from GitHub properly
-
-* if there's an active call, where guests have write permissions and
-e-mails, allow to trigger `FillCoAuthors` action in the context of the
-git panel, that will fill in `co-authored-by:` lines, using e-mail and
-names (or GitHub handle names if name is absent)
-
-* the action tries to not duplicate such entries, if any are present
-already, and adds those below the rest of the commit input's text
-
-Concerns:
-
-* users with write permissions and no e-mails will be silently omitted
-— adding odd entries that try to indicate this or raising pop-ups is
-very intrusive (maybe, we can add `#`-prefixed comments?), logging seems
-pointless
-
-* it's not clear whether the data prefill will run properly on the
-existing users — seems tolerable now, as it seems that we get e-mails
-properly already, so we'll see GitHub handles instead of names in the
-worst case. This can be prefilled better later.
-
-* e-mails and names for a particular project may be not what the user
-wants.
-E.g. my `.gitconfig` has
-```
-[user]
-    email = mail4score@gmail.com
-
-# .....snip
-
-[includeif "gitdir:**/work/zed/**/.git"]
-    path = ~/.gitconfig.work
-```
-
-and that one has
-
-```
-[user]
-    email = kirill@zed.dev
-```
-
-while my GitHub profile is configured so, that `mail4score@gmail.com` is
-the public, commit e-mail.
-
-So, when I'm a participant in a Zed session, wrong e-mail will be
-picked.
-The problem is, it's impossible for a host to get remote's collaborator
-git metadata for a particular project, as that might not even exist on
-disk for the client.
-
-Seems that we might want to add some "project git URL &lt;-&gt; user name and
-email" mapping in the settings(?).
-The design of this is not very clear, so the PR concentrates on the
-basics for now.
-
-When https://github.com/zed-industries/zed/pull/23308 lands, most of the
-issues can be solved by collaborators manually, before committing.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac214c5</div>
-                                        <div class="message">Delay hiding git blame tooltip (#22644)
-
-It's easy to overshoot the bottom of the tooltip when cursoring to a
-button, such as opening the commit from a blame tooltip. Before this
-change the tooltip would immediately disappear, and now it sticks around
-for a bit.
-
-Also:
-
-* Shares the implementation with `elements/text.rs`. This will
-particularly be handy when it makes use of hoverable tooltips.
-
-* Improves the fix to #21657.
-
-- Now the element will no longer think it has an active tooltip that it
-registers with the window.
-
-- It will instead display the next available tooltip, whereas I believe
-before the next available tooltip would be suppressed.
-
-* Fixes bug where `cx.refresh()` wasn't called when text tooltip is
-hidden due to a mouse down event.
-
-* Ports over fix in https://github.com/zed-industries/zed/pull/14832 to
-`elements/text.rs`
-
-Release Notes:
-
-- The tooltip for inline git blame now waits a bit before disappearing
-when the mouse leaves it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#985544f</div>
-                                        <div class="message">assistant2: Try again with fix use of rust-analyzer with `"workspace": false` (#23331)
-
-I thought #23326 did the trick, but it didn't
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10f3586</div>
-                                        <div class="message">lsp: Skip computation of `edits_since_save` when there are no disk based diagnostics (#23269)
-
-Thought of this improvement while @ConradIrwin and I were looking into
-whether this code is misbehaving. It seems not to be.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a7b73b</div>
-                                        <div class="message">assistant2: fix use with rust-analyzer `"workspace": false` (#23326)
-
-Before this was getting errors about `TestAppContext` not existing.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c92da4</div>
-                                        <div class="message">terminal: Add scrollbar (#23256)
-
-Closes #4798
-
-This PR implements a scrollbar for the terminal by turning
-`ScrollableHandle` into a trait, allowing us to implement a custom
-scroll handle, `TerminalScrollHandle`. It works by converting terminal
-lines into pixels that `ScrollableHandle` understands. When
-`ScrollableHandle` provides a changed offset (e.g., when you drag the
-scrollbar), we convert this pixel offset back into the number of lines
-to scroll and update the terminal content accordingly.
-
-While the current version works as expected, I believe the scrollbar's
-offset updates could potentially be turned into an event. This event
-could then be subscribed to in `TerminalView`, not needing to update the
-terminal's offset in the `render` method as it might have performance
-implications. Further ideas on this are welcome.
-
-Preview:
-
-
-https://github.com/user-attachments/assets/560f0aac-4544-4007-8f0b-8833386f608f
-
-Todo:
-
-- [x] Experiment with custom scrollbar responding to terminal mouse
-scroll
-- [x] Refactor existing scrollbar handle into a trait  
-- [x] Update terminal to use the scrollbar trait instead of a custom
-scrollbar implementation
-- [x] Figure out how scrollbar events like mouse drag should notify the
-terminal to update its state
-- [x] Code clean up
-- [x] Scrollbar hide setting for terminal
-
-Release Notes:
-
-- Added scrollbar to the terminal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#728a874</div>
-                                        <div class="message">windows: Improve foreground task dispatching on Windows (#23283)
-
-Closes #22653
-
-After some investigation, I found this bug is due to that sometimes
-`foreground_task` is not dispatched to the main thread unless there is
-user input. The current Windows implementation works as follows: when
-the `WindowsDispatcher` receives a `foreground_task`, it adds the task
-to a queue and uses `SetEvent(dispatch_event)` to notify the main
-thread.
-
-The main thread then listens for notifications using
-`MsgWaitForMultipleObjects(&amp;[dispatch_event])`.
-
-Essentially, this is a synchronous method, but it is not robust. For
-example, if 100 `foreground_task`s are sent, `dispatch_event` should
-theoretically be triggered 100 times, and
-`MsgWaitForMultipleObjects(&amp;[dispatch_event])` should receive 100
-notifications, causing the main thread to execute all 100 tasks.
-However, in practice, some `foreground_task`s may not get a chance to
-execute due to certain reasons.
-
-As shown in the attached video, when I don't move the mouse, there are
-about 20-30 `foreground_task`s waiting in the queue to be executed. When
-I move the mouse, `run_foreground_tasks()` is called, which processes
-the tasks in the queue.
-
-
-
-https://github.com/user-attachments/assets/83cd09ca-4b17-4a1f-9a2a-5d1569b23483
-
-
-
-To address this, this PR adopts an approach similar to `winit`. In
-`winit`, an invisible window is created for message passing. In this PR,
-we use `PostThreadMessage` to directly send messages to the main thread.
-
-With this implementation, when 100 `foreground_task`s are sent, the
-`WindowsDispatcher` uses `PostThreadMessageW(thread_id,
-RUNNABLE_DISPATCHED)` to notify the main thread. This approach enqueues
-100 `RUNNABLE_DISPATCHED` messages in the main thread's message queue,
-ensuring that each `foreground_task` is executed as expected. The main
-thread continuously processes these messages, guaranteeing that all 100
-tasks are executed.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5138e6a</div>
-                                        <div class="message">Fix accepting partial inline completion (#23312)
-
-Release Notes:
-
-- Fixed a bug that could prevent accepting a partial inline completion.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf0578e</div>
-                                        <div class="message">Remove gap in layout of notifications (#23303)
-
-* Increases width of notification message to remove a gap
-
-* Puts the close button in the top right
-
-Release Notes:
-
-- N/A
-
-Co-authored-by: Nate &lt;nate@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e338a17</div>
-                                        <div class="message">assistant2: Adjust "generating" state design (#23299)
-
-To ensure message readability is not affected in any way.
-
-
-https://github.com/user-attachments/assets/9a2ad949-1a8a-4c31-ad3c-db70f48e5d98
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2385eb</div>
-                                        <div class="message">issues: Add new core label 'discussion' (#23304)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a247617</div>
-                                        <div class="message">Revert "lsp: Parse LSP messages on background thread - again (#23122)" (#23301)
-
-This reverts commit 1b3b825c7f646f2fb34e2bceb6be33f310dfeb59.
-
-When debugging git diffs we found that this introduced a re-ordering of
-messages sent to the LSP:
-
-* User hits "format"
-* Zed adjusts spacing, and sends "spaces changed" to the LSP
-* Zed sends "format" to LSP
-
-With the async approach here, the format request can now arrive before
-the space changed request.
-
-You can reproduce this with `test_strip_whitespace_and_format_via_lsp`
-under some conditions.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dda985</div>
-                                        <div class="message">zeta: Request completion when jumping to diagnostic (#23292)
-
-Release Notes:
-
-- N/A
-
-Co-authored-by: Antonio &lt;antonio@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#938e28f</div>
-                                        <div class="message">assistant2: Thread history keyboard navigation (#23145)
-
-Open and delete threads via keyboard:
-
-
-https://github.com/user-attachments/assets/79b402ad-a49d-4c52-9d46-28a7bf32ff1f
-
-
-
-Note: this doesn't include navigation in the "recent threads" section of
-the empty state
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5da6789</div>
-                                        <div class="message">git: Implement commit creation (#23263)
-
-- [x] Basic implementation
-- [x] Disable commit buttons when committing is not possible (empty
-message, no changes)
-- [x] Upgrade GitSummary to efficiently figure out whether there are any
-staged changes
-- [x] Make CommitAll work
-- [x] Surface errors with toasts
-  - [x] Channel shutdown
-  - [x] Empty commit message or no changes
-  - [x] Failed git operations
-- [x] Fix added files no longer appearing correctly in the project panel
-(GitSummary breakage)
-- [x] Fix handling of commit message
-
-Release Notes:
-
-- N/A
-
----------
-
-Co-authored-by: Nate &lt;nate@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3767e7e</div>
-                                        <div class="message">html_to_markdown: Restore ability to publish (#23293)
-
-This PR restores the ability to publish the `html_to_markdown` crate
-after #23291.
-
-This crate is [published](https://crates.io/crates/html_to_markdown) to
-crates.io so that it can be consumed by extensions.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9534e8</div>
-                                        <div class="message">chore: Use workspace fields for edition and publish (#23291)
-
-This prepares us for an upcoming bump to Rust 2024 edition.
-
-Release Notes:
-
-- N/A</div>
+                                        <div class="sha">#cb45860</div>
+                                        <div class="message">Merge branch 'master' into dependabot/cargo/tokio-1.43.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -866,12 +432,16 @@ Release Notes:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">qxb3/fum</span>
+                                        Opened
+                                        <span class="issue">#44 chore: release v0.1.13</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">cartercanedy/rawbit</span></div>
+                                    <div>4 files changed <span class="code">++11 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -883,14 +453,14 @@ Release Notes:
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">cartercanedy/zed</span>
+                                        <span class="repo">cartercanedy/rawbit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
+                                    <div>on branch <span class="code">release-plz-2025-01-21T03-33-42Z</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ae7d30</div>
-                                        <div class="message">remove original task from pretask list</div>
+                                        <div class="sha">#e360e3a</div>
+                                        <div class="message">chore: release v0.1.13</div>
                                     </div>
                                 </div>
                             </section>
@@ -899,18 +469,14 @@ Release Notes:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cartercanedy/zed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05908b0</div>
-                                        <div class="message">accept vec of tasks when spawning terminal tasks</div>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/clap-4.5.27</span>
+                                        in
+                                        <span class="repo">cartercanedy/rawbit</span>
                                     </div>
                                 </div>
                             </section>
@@ -920,7 +486,7 @@ Release Notes:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2025, 22:14:44 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 23:10:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
