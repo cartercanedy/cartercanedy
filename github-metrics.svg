@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1718" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1749" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    91k added, 24.5k removed
+                                    8k added, 4.10k removed
                                 </div>
                             </section>
                             <section>
@@ -323,7 +323,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 52 commits)</small>
+                    <small class="h-details">(computed from last 53 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -391,6 +391,584 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 66 commits in
+                                        <span class="repo">cartercanedy/zed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">task-queue</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0cb4175</div>
+                                        <div class="message">llm: Sample ~10% of staff members inputs/outputs to LLM (#23537)
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95c045a</div>
+                                        <div class="message">Fix LSP violation when dismissing server notifications (#23531)
+
+Part of https://github.com/zed-industries/zed/issues/22606
+Closes https://github.com/zed-industries/zed/issues/23509
+
+When a user sees an odd notification from the language server like
+
+&lt;img width="508" alt="image"
+src="https://github.com/user-attachments/assets/6f5ef1aa-0f09-4705-a02a-aaf81dd8620c"
+/&gt;
+
+they usually dismiss that.
+
+Zed uses channels to wait and handle user interactions with such
+notifications, and, due to `?`, sends back
+```json
+{"jsonrpc":"2.0","id":1,"error":{"message":"receiving from an empty and closed channel"}}
+```
+
+which is not spec-compliant:
+https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/#window_showMessageRequest
+
+&gt; Response:
+&gt;
+&gt; * result: the selected
+[MessageActionItem](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/#messageActionItem)
+| null if none got selected.
+&gt; * error: code and message set in case an exception happens during
+showing a message.
+
+Unfortunately, vtsls (and, potentially, others) crash if receive such
+non-compliant requests, and do not get back.
+
+After the fix, the message is correct:
+```json
+{"jsonrpc":"2.0","id":1,"result":null}
+```
+
+
+Release Notes:
+
+- Fixed vtsls crashing on notification dismiss
+
+Co-authored-by: Piotr Osiewicz &lt;piotr@zed.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9e354e</div>
+                                        <div class="message">theme: Add version control colors (#23529)
+
+This PR adds version control-specific theme tokens to the them to allow
+styling entries in the git ui and elsewhere.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#828b5ab</div>
+                                        <div class="message">project: Reorder LSP Adapters within LanguageRegistry (#23528)
+
+Closes #ISSUE
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11bb906</div>
+                                        <div class="message">terminal: Check for script existence properly before activating it (#23476)
+
+We were not covering a variant where the returned metadata was Ok(None)
+
+Closes #ISSUE
+
+Release Notes:
+
+- Fixed venv activation script path showing up in terminal for
+non-existant scripts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91b0ca0</div>
+                                        <div class="message">Omit `tsdk_path` from the servers' options if it does not exist (#23525)
+
+Part of https://github.com/zed-industries/zed/issues/22606
+
+Before, `tsdk_path` for vtsls and typescript-language-server
+unconditionally set a `tsdk`/`tsserver` property for the corresponding
+language server, even if there were no such directory at all.
+Instead, make the corresponding code to omit such property if it was not
+found on the FS.
+
+Release Notes:
+
+- Fixed "The path /.../tsserver.js doesn't point to a valid tsserver
+install. Falling back to bundled TypeScript version." pop-up appearing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1be419</div>
+                                        <div class="message">Fix panics on opening repositories with empty remotes (#23520)
+
+Uses a newer `git2` version with
+https://github.com/rust-lang/git2-rs/pull/1120 fix
+
+Closes https://github.com/zed-industries/zed/issues/23453
+
+Release Notes:
+
+- Fixed panics on opening repositories with empty remotes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70f8224</div>
+                                        <div class="message">Update cloudflare/wrangler-action digest to 7a5f8bb (#23487)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+|
+[cloudflare/wrangler-action](https://redirect.github.com/cloudflare/wrangler-action)
+| action | digest | `6d58852` -&gt; `7a5f8bb` |
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29b57de</div>
+                                        <div class="message">Update actions/stale digest to 5bef64f (#23486)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [actions/stale](https://redirect.github.com/actions/stale) | action |
+digest | `28ca103` -&gt; `5bef64f` |
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36c62bc</div>
+                                        <div class="message">Update Rust crate metal to 0.31 (#23508)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [metal](https://redirect.github.com/gfx-rs/metal-rs) |
+workspace.dependencies | minor | `0.30` -&gt; `0.31` |
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d7199e</div>
+                                        <div class="message">Update Rust crate convert_case to 0.7.0 (#23504)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [convert_case](https://redirect.github.com/rutrum/convert-case) |
+workspace.dependencies | minor | `0.6.0` -&gt; `0.7.0` |
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82cee9e</div>
+                                        <div class="message">assistant2: Don't suggest thread context for inline assist without a `ThreadStore` (#23506)
+
+This PR makes it so we don't suggest threads as context in the inline
+assist when we don't have a `ThreadStore` to pull from.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecf70db</div>
+                                        <div class="message">Update Rust crate serde_json to v1.0.137 (#23498)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [serde_json](https://redirect.github.com/serde-rs/json) | dependencies
+| patch | `1.0.135` -&gt; `1.0.137` |
+| [serde_json](https://redirect.github.com/serde-rs/json) |
+workspace.dependencies | patch | `1.0.135` -&gt; `1.0.137` |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;serde-rs/json (serde_json)&lt;/summary&gt;
+
+###
+[`v1.0.137`](https://redirect.github.com/serde-rs/json/releases/tag/v1.0.137)
+
+[Compare
+Source](https://redirect.github.com/serde-rs/json/compare/v1.0.136...v1.0.137)
+
+- Turn on "float_roundtrip" and "unbounded_depth" features for
+serde_json in play.rust-lang.org
+([#&amp;#8203;1231](https://redirect.github.com/serde-rs/json/issues/1231))
+
+###
+[`v1.0.136`](https://redirect.github.com/serde-rs/json/releases/tag/v1.0.136)
+
+[Compare
+Source](https://redirect.github.com/serde-rs/json/compare/v1.0.135...v1.0.136)
+
+- Optimize serde_json::value::Serializer::serialize_map by using
+Map::with_capacity
+([#&amp;#8203;1230](https://redirect.github.com/serde-rs/json/issues/1230),
+thanks [@&amp;#8203;goffrie](https://redirect.github.com/goffrie))
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about these
+updates again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#848f298</div>
+                                        <div class="message">Update Rust crate semver to v1.0.25 (#23497)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [semver](https://redirect.github.com/dtolnay/semver) |
+workspace.dependencies | patch | `1.0.24` -&gt; `1.0.25` |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dtolnay/semver (semver)&lt;/summary&gt;
+
+###
+[`v1.0.25`](https://redirect.github.com/dtolnay/semver/releases/tag/1.0.25)
+
+[Compare
+Source](https://redirect.github.com/dtolnay/semver/compare/1.0.24...1.0.25)
+
+- Enable serde impls on play.rust-lang.org
+([#&amp;#8203;330](https://redirect.github.com/dtolnay/semver/issues/330),
+thanks [@&amp;#8203;jofas](https://redirect.github.com/jofas))
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78a8c1a</div>
+                                        <div class="message">git: No-op when trying to commit with nothing staged or no commit message (#23491)
+
+The buttons are disabled in this case, but users can still trigger a
+commit via the actions directly, and an error toast seems a bit loud for
+this.
+
+cc @iamnbutler 
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db65ee0</div>
+                                        <div class="message">Update Rust crate etagere to v0.2.15 (#23493)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [etagere](https://redirect.github.com/nical/etagere) | dependencies |
+patch | `0.2.13` -&gt; `0.2.15` |
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ed2a81</div>
+                                        <div class="message">feature_flags: Enable `assistant2` for all staff (#23502)
+
+This PR makes it so the `assistant2` feature flag is automatically
+enabled for all staff.
+
+Previously all the staff members had been opted in to the feature flag
+manually (to allow for opting out), but I think we're ready to
+unconditionally ship it to all staff.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01b57b1</div>
+                                        <div class="message">assistant2: Only show thread context in picker when we have a `ThreadStore` (#23501)
+
+This PR fixes an issue with the context picker where it would show
+thread context as an option even if there was no `ThreadStore`
+available.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1077c6</div>
+                                        <div class="message">assistant2: Add button to open the prompt library (#23500)
+
+This PR adds a button to open the prompt library from the configuration
+view in Assistant2.
+
+&lt;img width="1309" alt="Screenshot 2025-01-22 at 5 38 08 PM"
+src="https://github.com/user-attachments/assets/d514abca-53bc-4cde-bead-ab68a1994fb5"
+/&gt;
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51fcb71</div>
+                                        <div class="message">Dedupe `PromptBuilder` construction (#23496)
+
+This PR dedupes the construction of the `PromptBuilder`.
+
+Previously this was constructed by both `assistant` and `assistant2`,
+but now we construct it outside and pass it in.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#23566 rust-analyzer: diagnostics can take a long time to be updated</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cartercanedy in <span class="repo">zed-industries/zed</span></div>
+                                    <div class="comment">@JosephTLyons I don't think that implementing the rpc routines would be an end-user breaking change, right? It's should just improve the perceived responsiveness</div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -633,147 +1211,12 @@ Release Notes:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">cartercanedy/zed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0630fea</div>
-                                        <div class="message">tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b929ff6</div>
-                                        <div class="message">remove unnecessary method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f0c04c</div>
-                                        <div class="message">remove post-task dispatching from feature scope</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fdad73</div>
-                                        <div class="message">better error reporting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b01aeb</div>
-                                        <div class="message">typos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1d7504</div>
-                                        <div class="message">fix rerunning last task not spawning task</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed9ddc0</div>
-                                        <div class="message">clippy + fmt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c41220c</div>
-                                        <div class="message">terminal_panel can spawn task queue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c611f6</div>
-                                        <div class="message">remove original task from pretask list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f81a621</div>
-                                        <div class="message">accept vec of tasks when spawning terminal tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d51f859</div>
-                                        <div class="message">optimize subgraph collection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e26e95</div>
-                                        <div class="message">use topo sort for cycle detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a212e6d</div>
-                                        <div class="message">use nohash-hasher</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc049df</div>
-                                        <div class="message">remove unnecessary format invocation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c22253</div>
-                                        <div class="message">correct cycle node idents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76876d3</div>
-                                        <div class="message">remove dbg from tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#813a502</div>
-                                        <div class="message">modify task schema to accept pre-/post-task tasks and implement task dep cycle detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aab82c</div>
-                                        <div class="message">docs: Mention PopOS 24.04 in Linux FAQ for /etc/prime-discrete (#23482)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a811979</div>
-                                        <div class="message">git: Fix the panel's update debouncing (#23462)
-
-This PR replaces the update debouncing code in the git panel with a more
-correct and conventional structure (holding a `Task` field instead of
-spawning a task that runs a loop). I wrote the code that this replaces
-without realizing that it doesn't implement debouncing properly.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#514d9b4</div>
-                                        <div class="message">assistant2: Add configuration (#23481)
-
-This PR wires up the ability to configure Assistant2.
-
-&lt;img width="1309" alt="Screenshot 2025-01-22 at 1 52 56 PM"
-src="https://github.com/user-attachments/assets/3de47797-7959-47af-bd93-51f105e87c28"
-/&gt;
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cartercanedy/zed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92293f7</div>
-                                        <div class="message">clippy + fmt</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 04:18:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 05:16:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
