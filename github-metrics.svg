@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1736" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1442" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            243 issue comments
+                            244 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    92.3k added, 25.2k removed
+                                    92k added, 11.6k removed
                                 </div>
                             </section>
                             <section>
@@ -396,6 +396,28 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#23639 lsp: Add limited implementation of pull-based diagnostics</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cartercanedy in <span class="repo">zed-industries/zed</span></div>
+                                    <div class="comment">
+                                        it turns out there's some more complicated logic with RA that results in an empty diagnostic report being returned if the
+                                        <code>textDocument/diagnostic</code>
+                                        request arrives while any fs change handling is still in-flight. Tbh, I'm honestly questioning if there's ever a situation where pull diagnostics from RA return valid diagnostics.
+It seems like I jumped to the conclusion that the improvement in RA diagnostic reporting performance when jumping from 1.81 to 1.84 was related to pull diagnostics, but that was very likely mistaken. I'll try to test the changes with other language servers to see if there's an improvement in other scenarios
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -818,545 +840,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 43 commits in
-                                        <span class="repo">cartercanedy/zed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c8ee21</div>
-                                        <div class="message">Clean up duplicate dock-retrieval code (#23670)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64a5153</div>
-                                        <div class="message">collab: Make unsupported for MinGW toolchain (#23518)
-
-Closes #23451
-
-reverts #23117 for MinGW. collab can't be compiled for MinGW because
-webrtc itself doesn't support MinGW compilers
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d005a7</div>
-                                        <div class="message">Canonicalize paths when running tests (#23655)
-
-In the Windows test environment, the paths generated by `temp_tree()`
-are symlink paths, which causes certain tests to fail.
-
-I later noticed that when opening a project, we seem to always use
-`canonicalize` to normalize the paths, as shown here:
-https://github.com/zed-industries/zed/pull/21039.
-
-This PR adopts a similar approach for the test environment to address
-the issue.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f8e2e3</div>
-                                        <div class="message">Remove scripts used in merging the refactoring (#23669)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84b945e</div>
-                                        <div class="message">Revert making keybinding display in Mac menus use standard precedence (#23661)
-
-Closes #23621
-
-Change was in #23378. Also adds a comment to clarify why this is
-inconsistent with all other uses of `bindings_for_action`.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fca1d2</div>
-                                        <div class="message">Eliminate GPUI View, ViewContext, and WindowContext types (#22632)
-
-There's still a bit more work to do on this, but this PR is compiling
-(with warnings) after eliminating the key types. When the tasks below
-are complete, this will be the new narrative for GPUI:
-
-- `Entity&lt;T&gt;` - This replaces `View&lt;T&gt;`/`Model&lt;T&gt;`. It represents a unit
-of state, and if `T` implements `Render`, then `Entity&lt;T&gt;` implements
-`Element`.
-- `&amp;mut App` This replaces `AppContext` and represents the app.
-- `&amp;mut Context&lt;T&gt;` This replaces `ModelContext` and derefs to `App`. It
-is provided by the framework when updating an entity.
-- `&amp;mut Window` Broken out of `&amp;mut WindowContext` which no longer
-exists. Every method that once took `&amp;mut WindowContext` now takes `&amp;mut
-Window, &amp;mut App` and every method that took `&amp;mut ViewContext&lt;T&gt;` now
-takes `&amp;mut Window, &amp;mut Context&lt;T&gt;`
-
-Not pictured here are the two other failed attempts. It's been quite a
-month!
-
-Tasks:
-
-- [x] Remove `View`, `ViewContext`, `WindowContext` and thread through
-`Window`
-- [x] [@cole-miller @mikayla-maki] Redraw window when entities change
-- [x] [@cole-miller @mikayla-maki] Get examples and Zed running
-- [x] [@cole-miller @mikayla-maki] Fix Zed rendering
-- [x] [@mikayla-maki] Fix todo! macros and comments
-- [x] Fix a bug where the editor would not be redrawn because of view
-caching
-- [x] remove publicness window.notify() and replace with
-`AppContext::notify`
-- [x] remove `observe_new_window_models`, replace with
-`observe_new_models` with an optional window
-- [x] Fix a bug where the project panel would not be redrawn because of
-the wrong refresh() call being used
-- [x] Fix the tests
-- [x] Fix warnings by eliminating `Window` params or using `_`
-- [x] Fix conflicts
-- [x] Simplify generic code where possible
-- [x] Rename types
-- [ ] Update docs
-
-### issues post merge
-
-- [x] Issues switching between normal and insert mode
-- [x] Assistant re-rendering failure
-- [x] Vim test failures
-- [x] Mac build issue
-
-
-
-Release Notes:
-
-- N/A
-
----------
-
-Co-authored-by: Antonio Scandurra &lt;me@as-cii.com&gt;
-Co-authored-by: Cole Miller &lt;cole@zed.dev&gt;
-Co-authored-by: Mikayla &lt;mikayla@zed.dev&gt;
-Co-authored-by: Joseph &lt;joseph@zed.dev&gt;
-Co-authored-by: max &lt;max@zed.dev&gt;
-Co-authored-by: Michael Sloan &lt;michael@zed.dev&gt;
-Co-authored-by: Mikayla Maki &lt;mikaylamaki@Mikaylas-MacBook-Pro.local&gt;
-Co-authored-by: Mikayla &lt;mikayla.c.maki@gmail.com&gt;
-Co-authored-by: joão &lt;joao@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21b4a0d</div>
-                                        <div class="message">Adjust `editor: open excerpts split` key binding (#23646)
-
-The pattern in Zed and in other editors is to use `cmd` to modify some
-file-opening action to open it in a split rather than in the current
-pane.
-
-- In the project pane, a `click` opens a file, and a `cmd-click` opens
-it in a split
-- In the file finder, `enter` opens the file, and a `cmd-enter` opens it
-in a split
-
-It makes sense to me that if `alt-enter` opens a file from the excerpt,
-that `cmd-alt-enter` opens it in a split, following the pattern above.
-
-Note: I'm not auto-merging this, as others might disagree.
-Note: I didn't touch the Vim binding.
-
-Release Notes:
-
-- Breaking Change: Changed `editor: open excerpts split` key binding to
-`cmd-alt-enter` on macOS and `ctrl-alt-enter` on Linux.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da2bd4b</div>
-                                        <div class="message">Rework go to line infrastructure (#23654)
-
-Closes https://github.com/zed-industries/zed/issues/12024
-
-
-https://github.com/user-attachments/assets/60ea3dbd-b594-4bf5-a44d-4bff925b815f
-
-* Fixes incorrect line selection for certain corner cases
-
-Before:
-
-&lt;img width="1728" alt="image"
-src="https://github.com/user-attachments/assets/35aaee6c-c120-4bf1-9355-448a29d1b9b5"
-/&gt;
-
-After:
-
-&lt;img width="1728" alt="image"
-src="https://github.com/user-attachments/assets/abd97339-4594-4e8e-8605-50d74581ae86"
-/&gt;
-
-
-* Reworks https://github.com/zed-industries/zed/pull/16420 to display
-selection length with less performance overhead.
-Improves the performance more, doing a single selections loop instead of
-two.
-
-* Fixes incorrect caret position display when text contains UTF-8 chars
-with size &gt; 1
-Also fixes tooltop values for this case
-
-* Fixes go to line to treat UTF-8 chars with size &gt; 1 properly when
-navigating
-
-* Adds a way to fill go to line text editor with its tooltip on `Tab`
-
-Release Notes:
-
-- Fixed incorrect UTF-8 characters handling in `GoToLine` and caret
-position</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c0a39d</div>
-                                        <div class="message">Add key binding for `editor: open selections in multibuffer` (#23648)
-
-Follow-up to: https://github.com/zed-industries/zed/pull/23644
-
-- Existing: `alt-enter` to open files from multi-buffer selections
-- New: `alt-enter` to open multi-buffer from file selections
-
-I updated the original PR changelog line.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#392b95b</div>
-                                        <div class="message">Use proper path separator for multi buffer headers (#23635)
-
-Before: 
-
-
-![bad](https://github.com/user-attachments/assets/ab20836a-b3bb-4b33-8ce4-eecc79d5f02f)
-
-
-After:
-
-
-![good](https://github.com/user-attachments/assets/40c328d1-2ef1-4a9b-9de9-9be9bba26756)
-
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f417ed</div>
-                                        <div class="message">Fix repl "plain" terminals enqueing events without ever dequeuing (#23641)
-
-Bringing back part of #23631 which was reverted in #23636. Different but
-related memory leak to what's described in #23008
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75b507d</div>
-                                        <div class="message">Open selections in multi buffer (#23644)
-
-Closes https://github.com/zed-industries/zed/issues/5126
-
-Release Notes:
-
-- Added an `editor: open selections in multibuffer` command.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f510283</div>
-                                        <div class="message">Revert terminal memory leak fixes (#23636)
-
-New mechanism had introduced the following regressions:
-
-* Windows tasks are not registering child exit properly, sometimes
-getting stuck in dirty state (even with
-https://github.com/zed-industries/zed/pull/23631):
-
-
-https://github.com/user-attachments/assets/6d406f17-aa76-4012-9c3b-be72d6d5beae
-
-* Overall, the terminal editing started to feel more sluggish, esp. in
-regards to deletions (ctrl-w and backspace), tested on macOS:
-
-
-https://github.com/user-attachments/assets/3a69fe2e-e394-45e8-8f51-0f5ac396cb24
-
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7c6ffa</div>
-                                        <div class="message">Fix panic when multi-cursor edit attempted in deleted hunk (#23633)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba16b4e</div>
-                                        <div class="message">assistant2: Show accept terms UI in thread empty state (#23630)
-
-&lt;img
-src="https://github.com/user-attachments/assets/cea93cfb-8a40-48c4-9d90-f1751c79603b"
-width=400&gt;
-
-
-
-Release Notes:
-
-- N/A
-
----------
-
-Co-authored-by: Danilo &lt;danilo@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec5d02d</div>
-                                        <div class="message">Use `send` instead of `feed` on terminal events channel (#23631)
-
-Potentially fixes a bug where tasks are not marked as finished.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2c55cb</div>
-                                        <div class="message">Rework diff rendering to allow putting the cursor into deleted text, soft-wrapping and scrolling deleted text correctly (#22994)
-
-Closes #12553
-
-* [x] Fix `diff_hunk_before`
-* [x] Fix failure to show deleted text when expanding hunk w/ cursor on
-second line of the hunk
-* [x] Failure to expand diff hunk below the cursor.
-* [x] Delete the whole file, and expand the diff. Backspace over the
-deleted hunk, panic!
-* [x] Go-to-line now counts the diff hunks, but it should not
-* [x] backspace at the beginning of a deleted hunk deletes too much text
-* [x] Indent guides are rendered incorrectly 
-* [ ] Fix randomized multi buffer tests
-
-Maybe:
-* [ ] Buffer search should include deleted text (in vim mode it turns
-out I use `/x` all the time to jump to the next x I can see).
-* [ ] vim: should refuse to switch into insert mode if selection is
-fully within a diff.
-* [ ] vim `o` command when cursor is on last line of deleted hunk.
-* [ ] vim `shift-o` on first line of deleted hunk moves cursor but
-doesn't insert line
-* [x] `enter` at end of diff hunk inserts a new line but doesn't move
-cursor
-* [x] (`shift-enter` at start of diff hunk does nothing)
-* [ ] Inserting a line just before an expanded hunk collapses it
-
-Release Notes:
-
-
-- Improved diff rendering, allowing you to navigate with your cursor
-inside of deleted text in diff hunks.
-
----------
-
-Co-authored-by: Conrad &lt;conrad@zed.dev&gt;
-Co-authored-by: Cole &lt;cole@zed.dev&gt;
-Co-authored-by: Mikayla &lt;mikayla@zed.dev&gt;
-Co-authored-by: Conrad Irwin &lt;conrad.irwin@gmail.com&gt;
-Co-authored-by: Michael &lt;michael@zed.dev&gt;
-Co-authored-by: Agus &lt;agus@zed.dev&gt;
-Co-authored-by: João &lt;joao@zed.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fdae4b</div>
-                                        <div class="message">Update Rust crate tokio to v1.43.0 (#22882)
-
-This PR contains the following updates:
-
-| Package | Type | Update | Change |
-|---|---|---|---|
-| [tokio](https://tokio.rs)
-([source](https://redirect.github.com/tokio-rs/tokio)) | dependencies |
-minor | `1.42.0` -&gt; `1.43.0` |
-| [tokio](https://tokio.rs)
-([source](https://redirect.github.com/tokio-rs/tokio)) |
-workspace.dependencies | minor | `1.42.0` -&gt; `1.43.0` |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;tokio-rs/tokio (tokio)&lt;/summary&gt;
-
-###
-[`v1.43.0`](https://redirect.github.com/tokio-rs/tokio/releases/tag/tokio-1.43.0):
-Tokio v1.43.0
-
-[Compare
-Source](https://redirect.github.com/tokio-rs/tokio/compare/tokio-1.42.0...tokio-1.43.0)
-
-### 1.43.0 (Jan 8th, 2025)
-
-##### Added
-
--   net: add `UdpSocket::peek` methods ([#&amp;#8203;7068])
--   net: add support for Haiku OS ([#&amp;#8203;7042])
--   process: add `Command::into_std()` ([#&amp;#8203;7014])
--   signal: add `SignalKind::info` on illumos ([#&amp;#8203;6995])
--   signal: add support for realtime signals on illumos ([#&amp;#8203;7029])
-
-##### Fixed
-
-- io: don't call `set_len` before initializing vector in `Blocking`
-([#&amp;#8203;7054])
-- macros: suppress `clippy::needless_return` in `#[tokio::main]`
-([#&amp;#8203;6874])
--   runtime: fix thread parking on WebAssembly ([#&amp;#8203;7041])
-
-##### Changes
-
--   chore: use unsync loads for `unsync_load` ([#&amp;#8203;7073])
--   io: use `Buf::put_bytes` in `Repeat` read impl ([#&amp;#8203;7055])
--   task: drop the join waker of a task eagerly ([#&amp;#8203;6986])
-
-##### Changes to unstable APIs
-
-- metrics: improve flexibility of H2Histogram Configuration
-([#&amp;#8203;6963])
--   taskdump: add accessor methods for backtrace ([#&amp;#8203;6975])
-
-##### Documented
-
-- io: clarify `ReadBuf::uninit` allows initialized buffers as well
-([#&amp;#8203;7053])
-- net: fix ambiguity in `TcpStream::try_write_vectored` docs
-([#&amp;#8203;7067])
--   runtime: fix `LocalRuntime` doc links ([#&amp;#8203;7074])
-- sync: extend documentation for `watch::Receiver::wait_for`
-([#&amp;#8203;7038])
--   sync: fix typos in `OnceCell` docs ([#&amp;#8203;7047])
-
-[#&amp;#8203;6874]: https://redirect.github.com/tokio-rs/tokio/pull/6874
-
-[#&amp;#8203;6963]: https://redirect.github.com/tokio-rs/tokio/pull/6963
-
-[#&amp;#8203;6975]: https://redirect.github.com/tokio-rs/tokio/pull/6975
-
-[#&amp;#8203;6986]: https://redirect.github.com/tokio-rs/tokio/pull/6986
-
-[#&amp;#8203;6995]: https://redirect.github.com/tokio-rs/tokio/pull/6995
-
-[#&amp;#8203;7014]: https://redirect.github.com/tokio-rs/tokio/pull/7014
-
-[#&amp;#8203;7029]: https://redirect.github.com/tokio-rs/tokio/pull/7029
-
-[#&amp;#8203;7038]: https://redirect.github.com/tokio-rs/tokio/pull/7038
-
-[#&amp;#8203;7041]: https://redirect.github.com/tokio-rs/tokio/pull/7041
-
-[#&amp;#8203;7042]: https://redirect.github.com/tokio-rs/tokio/pull/7042
-
-[#&amp;#8203;7047]: https://redirect.github.com/tokio-rs/tokio/pull/7047
-
-[#&amp;#8203;7053]: https://redirect.github.com/tokio-rs/tokio/pull/7053
-
-[#&amp;#8203;7054]: https://redirect.github.com/tokio-rs/tokio/pull/7054
-
-[#&amp;#8203;7055]: https://redirect.github.com/tokio-rs/tokio/pull/7055
-
-[#&amp;#8203;7067]: https://redirect.github.com/tokio-rs/tokio/pull/7067
-
-[#&amp;#8203;7068]: https://redirect.github.com/tokio-rs/tokio/pull/7068
-
-[#&amp;#8203;7073]: https://redirect.github.com/tokio-rs/tokio/pull/7073
-
-[#&amp;#8203;7074]: https://redirect.github.com/tokio-rs/tokio/pull/7074
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
-America/New_York, Automerge - At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you
-are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about these
-updates again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-Release Notes:
-
-- N/A
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS45Mi4wIiwidXBkYXRlZEluVmVyIjoiMzkuOTIuMCIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOltdfQ==--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d8d21a</div>
-                                        <div class="message">git: Disable "stage all" checkbox when no entries (#23608)
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40c18be</div>
-                                        <div class="message">Make editor autoscroll put cursor to the left of scrollbar not under (#23586)
-
-Closes #19706
-
-Release Notes:
-
-- Improved editor horizontal autoscroll to now place the cursor to the
-left of the scrollbar rather than under it.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2025, 16:48:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2025, 18:10:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
