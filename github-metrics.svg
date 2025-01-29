@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1742" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2371" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    94.1k added, 13.4k removed
+                                    124k added, 10.8k removed
                                 </div>
                             </section>
                             <section>
@@ -323,12 +323,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 67 commits)</small>
+                    <small class="h-details">(computed from last 69 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.8 characters per line of code written</li>
+                        <li>Has approximately 36.9 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -398,6 +398,593 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 296 commits in
+                                        <span class="repo">cartercanedy/zed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#92f05d1</div>
+                                        <div class="message">Fix configuration issue in CI runners   (#23223)
+
+While working on PR #23117, I noticed that the Windows runner in our CI
+setup doesn't seem to respect the settings defined in
+`.cargo/config.toml`. With @SomeoneToIgnore ’s help, Kirill and I
+realized this issue isn’t limited to the Windows runner—all of our
+runners disregard the configurations in `.cargo/config.toml`.
+
+Later, @osiewicz suggested an excellent workaround. I conducted some
+tests on PR #23117 and found that the solution works as intended.
+
+Personally, I prefer using environment variables for global
+configuration. However, according to the documentation
+[here](https://doc.rust-lang.org/cargo/reference/config.html), it seems
+that environment variables always override the settings in
+`.cargo/config.toml`.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f51db18</div>
+                                        <div class="message">Add `VIM_KEYMAP_PATH` constant (#23228)
+
+Deduplicates 2 occurrences
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#972176a</div>
+                                        <div class="message">Avoid doing string manipulation on render for single line label (#23227)
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e6fc3c</div>
+                                        <div class="message">Implement better markdown escaping and inline code escape (#23222)
+
+Motivation for this is using markdown for keymap error notifications in
+#23113, but it also benefits the copied text of repl tables.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fdd7ed</div>
+                                        <div class="message">Add support for showing notification to active workspace from AppContext (#23226)
+
+Falls back on notifying all workspaces if there isn't an active one.
+
+This is to support notifying the user about keymap file errors in
+#23113. It will also be useful for notifying about settings file errors.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55e1e83</div>
+                                        <div class="message">Make language registry optional in `parse_markdown` (#23221)
+
+Motivation for this is using markdown for keymap error notifications in
+#23113
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dbe34d</div>
+                                        <div class="message">Make `TextSize::rems` take `AppContext` instead of `WindowContext` (#23220)
+
+Motivation for this change is #23113, but this will also be the state of
+it after the gpui refactor.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#880f3ff</div>
+                                        <div class="message">Timeout if completion takes longer than 2s (#23215)
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a41d72e</div>
+                                        <div class="message">Represent git statuses more faithfully (#23082)
+
+First, parse the output of `git status --porcelain=v1` into a
+representation that can handle the full "grammar" and doesn't lose
+information.
+
+Second, as part of pushing this throughout the codebase, expand the use
+of the existing `GitSummary` type to all the places where status
+propagation is in play (i.e., anywhere we're dealing with a mix of files
+and directories), and get rid of the previous `GitSummary -&gt;
+GitFileStatus` conversion.
+
+- [x] Synchronize new representation over collab
+  - [x] Update zed.proto
+  - [x] Update DB models
+- [x] Update `GitSummary` and summarization for the new `FileStatus`
+- [x] Fix all tests
+  - [x] worktree
+  - [x] collab
+- [x] Clean up `FILE_*` constants
+- [x] New collab tests to exercise syncing of complex statuses
+- [x] Run it locally and make sure it looks good
+
+Release Notes:
+
+- N/A
+
+---------
+
+Co-authored-by: Mikayla &lt;mikayla@zed.dev&gt;
+Co-authored-by: Conrad &lt;conrad@zed.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#224f3d4</div>
+                                        <div class="message">Update Rust crate sea-orm to v1.1.4 (#23202)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [sea-orm](https://www.sea-ql.org/SeaORM)
+([source](https://redirect.github.com/SeaQL/sea-orm)) | dev-dependencies
+| patch | `1.1.3` -&gt; `1.1.4` |
+| [sea-orm](https://www.sea-ql.org/SeaORM)
+([source](https://redirect.github.com/SeaQL/sea-orm)) | dependencies |
+patch | `1.1.3` -&gt; `1.1.4` |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;SeaQL/sea-orm (sea-orm)&lt;/summary&gt;
+
+###
+[`v1.1.4`](https://redirect.github.com/SeaQL/sea-orm/blob/HEAD/CHANGELOG.md#114---2025-01-10)
+
+[Compare
+Source](https://redirect.github.com/SeaQL/sea-orm/compare/1.1.3...1.1.4)
+
+##### Enhancements
+
+- Allow modifying the connection in migrations
+[https://github.com/SeaQL/sea-orm/pull/2397](https://redirect.github.com/SeaQL/sea-orm/pull/2397)
+- `DeriveRelatedEntity` proc_macro use `async-graphql` re-exported by
+`seaography`
+[https://github.com/SeaQL/sea-orm/pull/2469](https://redirect.github.com/SeaQL/sea-orm/pull/2469)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about these
+updates again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be7090c</div>
+                                        <div class="message">Update Rust crate log to v0.4.25 (#23200)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [log](https://redirect.github.com/rust-lang/log) |
+workspace.dependencies | patch | `0.4.22` -&gt; `0.4.25` |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;rust-lang/log (log)&lt;/summary&gt;
+
+###
+[`v0.4.25`](https://redirect.github.com/rust-lang/log/blob/HEAD/CHANGELOG.md#0425---2025-01-14)
+
+[Compare
+Source](https://redirect.github.com/rust-lang/log/compare/0.4.24...0.4.25)
+
+###
+[`v0.4.24`](https://redirect.github.com/rust-lang/log/blob/HEAD/CHANGELOG.md#0424---2025-01-11)
+
+[Compare
+Source](https://redirect.github.com/rust-lang/log/compare/0.4.23...0.4.24)
+
+###
+[`v0.4.23`](https://redirect.github.com/rust-lang/log/blob/HEAD/CHANGELOG.md#0423---2025-01-10-yanked)
+
+[Compare
+Source](https://redirect.github.com/rust-lang/log/compare/0.4.22...0.4.23)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f53915c</div>
+                                        <div class="message">Add infrastructure for loading icon themes from extensions (#23203)
+
+This PR adds the supporting infrastructure to support loading icon
+themes defined by extensions.
+
+Here's an example icon theme:
+
+```json
+{
+  "name": "My Icon Theme",
+  "author": "Me &lt;me@example.com&gt;",
+  "themes": [
+    {
+      "name": "My Icon Theme",
+      "appearance": "dark",
+      "file_icons": {
+        "gleam": { "path": "./icons/file_type_gleam.svg" },
+        "toml": { "path": "./icons/file_type_toml.svg" }
+      }
+    }
+  ]
+}
+```
+
+The icon paths are resolved relative to the root of the extension
+directory.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b8a5c9</div>
+                                        <div class="message">Update Rust crate proc-macro2 to v1.0.93 (#23201)
+
+This PR contains the following updates:
+
+| Package | Type | Update | Change |
+|---|---|---|---|
+| [proc-macro2](https://redirect.github.com/dtolnay/proc-macro2) |
+dependencies | patch | `1.0.92` -&gt; `1.0.93` |
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dtolnay/proc-macro2 (proc-macro2)&lt;/summary&gt;
+
+###
+[`v1.0.93`](https://redirect.github.com/dtolnay/proc-macro2/releases/tag/1.0.93)
+
+[Compare
+Source](https://redirect.github.com/dtolnay/proc-macro2/compare/1.0.92...1.0.93)
+
+- Optimize TokenStream's Drop
+([#&amp;#8203;489](https://redirect.github.com/dtolnay/proc-macro2/issues/489),
+[#&amp;#8203;490](https://redirect.github.com/dtolnay/proc-macro2/issues/490),
+thanks [@&amp;#8203;WalkerKnapp](https://redirect.github.com/WalkerKnapp))
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 3pm on Wednesday" in timezone
+America/New_York, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+Release Notes:
+
+- N/A
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMDcuMCIsInVwZGF0ZWRJblZlciI6IjM5LjEwNy4wIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6W119--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8526d9</div>
+                                        <div class="message">file_icons: Fall back to the default icon theme for icons (#23196)
+
+This PR updates the various `FileIcons` methods to fall back to the
+default icon theme if the active icon theme does not have the desired
+icon.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#904b367</div>
+                                        <div class="message">ui: Add support for rendering `Icon`s from external files (#23195)
+
+This PR adds support for rendering `Icon`s from external files.
+Previously this could only be used with icons embedded in the binary.
+
+To achieve this we currently need to use the `img` element until the
+`svg` element supports:
+
+1. Loading SVGs from external files
+2. Rendering polychrome SVGs
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e265e69</div>
+                                        <div class="message">git: Move all state into the panel (#23185)
+
+This should fix the problem with the panel not updating when switching
+projects.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d578f5a</div>
+                                        <div class="message">Simplify static expression to a constant (#23193)
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3e8bb0</div>
+                                        <div class="message">Update docs for running collab locally (#23192)
+
+Mention `cargo run -p collab -- serve all`, which seem to be the easier
+way to run it.
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e959cb</div>
+                                        <div class="message">Make Linux audio public (#23191)
+
+Release Notes:
+
+- Added a way to use audio in rooms with Linux builds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e215ca1</div>
+                                        <div class="message">Dedupe `AssistantSettings` (#23190)
+
+This PR dedupes the `AssistantSettings` so we can use the same settings
+for both Assistant1 and Assistant2.
+
+We originally forked them so we could change the Assistant2 settings
+freely, but given our rollout strategy for the new Assistant, I don't
+think that makes sense.
+
+This also fixes the issue where the JSON language server would show a
+"Matches multiple schemas when only one must validate" warning in
+`settings.json`.
+
+Closes #23171.
+
+Release Notes:
+
+- Fixed the "Matches multiple schemas when only one must validate"
+warning for the `assistant` setting.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 31 commits in
+                                        <span class="repo">cartercanedy/zed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">task-queue</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#96b5e27</div>
+                                        <div class="message">remove unnecessary method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d73441</div>
+                                        <div class="message">remove post-task dispatching from feature scope</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b105f8</div>
+                                        <div class="message">better error reporting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#020e19d</div>
+                                        <div class="message">typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e946dd1</div>
+                                        <div class="message">fix rerunning last task not spawning task</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd975d1</div>
+                                        <div class="message">clippy + fmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f5a2b</div>
+                                        <div class="message">terminal_panel can spawn task queue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#453733f</div>
+                                        <div class="message">remove original task from pretask list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9447647</div>
+                                        <div class="message">accept vec of tasks when spawning terminal tasks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f269da0</div>
+                                        <div class="message">optimize subgraph collection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca662e7</div>
+                                        <div class="message">use topo sort for cycle detection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b074cc</div>
+                                        <div class="message">use nohash-hasher</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e64c4fb</div>
+                                        <div class="message">remove unnecessary format invocation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b8b75b</div>
+                                        <div class="message">correct cycle node idents</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe40b41</div>
+                                        <div class="message">remove dbg from tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51da186</div>
+                                        <div class="message">modify task schema to accept pre-/post-task tasks and implement task dep cycle detection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1646e6</div>
+                                        <div class="message">Attempt to suppress embeds in Discord webhook (#23807)
+
+Closes: https://github.com/zed-industries/zed/issues/6884
+
+(hopefully 🤞)
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1973bf5</div>
+                                        <div class="message">Allow buffer search to search deleted hunks (#23632)
+
+Closes #ISSUE
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22afec3</div>
+                                        <div class="message">Revert "project: Fine-grained language server management" (#23804)
+
+Reverts zed-industries/zed#23708</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bda2690</div>
+                                        <div class="message">ci: Restrict more jobs to only run in the `zed-industries` organization (#23803)
+
+This PR updates the GitHub Action definitions to restrict more CI jobs
+to only run in the `zed-industries` organization (and thus, not on
+forks).
+
+Release Notes:
+
+- N/A</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1294,49 +1881,12 @@ Release Notes:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cartercanedy/zed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">task-queue</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ee00505</div>
-                                        <div class="message">return fast if pre-task label list is empty or task isn't from a file-based task source</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#23258 Implement pre-task dispatching</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cartercanedy in <span class="repo">zed-industries/zed</span></div>
-                                    <div class="comment">I'll drop the changes when I get a chance</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2025, 01:10:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2025, 02:10:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
